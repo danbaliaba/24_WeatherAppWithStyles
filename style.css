@@ -1,0 +1,8 @@
+#getWeatherButton, #locationInput, #weatherContainer{
+    border-radius: 5px;
+}
+body{
+    /* background-image: url("./snow.jpg"); */
+    /* background-position: center; */
+    background-attachment: fixed;
+}
